@@ -4,7 +4,7 @@ Currently a windows-only program.
 Only supports conversion into **PNG** and back.
 
 # Usage (v1.0)
-The program is executed in this manner:
+The program is executed using the syntax
 `PROGRAMNAME INPUT OPERATION OUTPUT`
 where:
 - **PROGRAMNAME** is the name of the actual executable - you may rename it to whatever you like.
